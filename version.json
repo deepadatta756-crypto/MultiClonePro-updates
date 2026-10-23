@@ -1,7 +1,7 @@
 {
-  "latestVersion": "4.3.1",
-  "latestVersionCode": 431,
-  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.3.1/multiclonepro_v4.3.1.apk",
+  "latestVersion": "4.3.2",
+  "latestVersionCode": 432,
+  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.3.2/multiclonepro_v4.3.2.apk",
   "forceUpdate": false,
-  "releaseNotes": "Restored v4.2.6 stability. Removed v4.2.7 ActivityStack fix and v4.2.8 network operator hooks that broke clone opening. Keeps all v4.2.5/v4.2.6 working features."
+  "releaseNotes": "MultiClone Pro v4.3.2 - Clone opening fix. Based on developer's root-cause analysis: (1) ContentProviderCompat now 4s time-bound wait (was 0.6s), (2) HookManager isolates each injector + launch-critical hooks first, (3) HCallbackProxy time-based bind retry (5s), (4) handleBindApplication retries on getPackageInfo null with logging. Keeps all v4.2.5/v4.2.6 features."
 }
