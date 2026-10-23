@@ -1,7 +1,7 @@
 {
-  "latestVersion": "4.3.3",
-  "latestVersionCode": 433,
-  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.3.3/multiclonepro_v4.3.3.apk",
+  "latestVersion": "4.3.4",
+  "latestVersionCode": 434,
+  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.3.4/multiclonepro_v4.3.4.apk",
   "forceUpdate": false,
-  "releaseNotes": "MultiClone Pro v4.3.3 - Root cause fixes for clone not opening. (1) ProxyActivity: fixed unconditional finish() order - now launches target first, then finishes. (2) BPackageUserState: default installed=true for missing user state (was permanent null). (3) ActivityStack.synchronizeTasks: preserve live tasks when recents unavailable (was wiping all). (4) Removed Google Play Service / Clone-detection code per user order. (5) Full English UI (removed Hindi/Chinese strings). Keeps v4.3.2 fixes."
+  "releaseNotes": "MultiClone Pro v4.3.4 - Deep fix: wired up safeAddInjector for all 82 hook injectors (was dead code - a single throwing constructor disabled ALL hooks). Completed GMS/Clone-detection removal (getPackageInfo, getApplicationInfo, isAntiDetectProvider blocklist). Keeps v4.3.3 root-cause fixes."
 }
