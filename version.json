@@ -1,7 +1,7 @@
 {
-  "latestVersion": "4.2.5",
-  "latestVersionCode": 425,
-  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.2.5/multiclonepro_v4.2.5.apk",
+  "latestVersion": "4.2.6",
+  "latestVersionCode": 426,
+  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.2.6/multiclonepro_v4.2.6.apk",
   "forceUpdate": false,
-  "releaseNotes": "Save button fixed, phone number hidden, network provider auto-fill, fake GMS enhanced, update on every start, battery spoof."
+  "releaseNotes": "Save button REAL fix, AntiVirtualDetect (clone detection bypass)"
 }
