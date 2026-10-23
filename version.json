@@ -1,7 +1,7 @@
 {
-  "latestVersion": "4.2.4",
-  "latestVersionCode": 424,
-  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.2.4/multiclonepro_v4.2.4.apk",
+  "latestVersion": "4.2.5",
+  "latestVersionCode": 425,
+  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.2.5/multiclonepro_v4.2.5.apk",
   "forceUpdate": false,
-  "releaseNotes": "Developer fixes: anti-detection audit, country auto-sets GPS location, auto IP generation, device model field restored, Virtual Space running-clones switcher, complete address data."
+  "releaseNotes": "Save button fixed, phone number hidden, network provider auto-fill, fake GMS enhanced, update on every start, battery spoof."
 }
