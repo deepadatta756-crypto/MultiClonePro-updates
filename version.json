@@ -1,7 +1,1 @@
-{
-  "latestVersion": "4.2.6",
-  "latestVersionCode": 426,
-  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.2.6/multiclonepro_v4.2.6.apk",
-  "forceUpdate": false,
-  "releaseNotes": "Save button REAL fix, AntiVirtualDetect (clone detection bypass)"
-}
+{"latestVersion":"4.2.7","latestVersionCode":427,"apkUrl":"https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.2.7/multiclonepro_v4.2.7.apk","forceUpdate":false,"releaseNotes":"Activity stack fix (multitasking), Settings crash fix"}
