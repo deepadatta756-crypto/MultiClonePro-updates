@@ -1,7 +1,7 @@
 {
-  "latestVersion": "4.3.6",
-  "latestVersionCode": 436,
-  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.3.6/PremCloner_4.3.6_universal-release-signed.apk",
+  "latestVersion": "4.3.7",
+  "latestVersionCode": 437,
+  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.3.7/PremCloner_4.3.7_universal-release.apk",
   "forceUpdate": false,
-  "releaseNotes": "Developer's second clone-opening fix. All features intact, nothing removed."
+  "releaseNotes": "Clone-opening fix + Virtual Profile. Fixed clone not opening (black screen), honest launch reporting, AppLock PIN/biometric verification, restored manual updater check, and Virtual Profile support."
 }
