@@ -1,7 +1,7 @@
 {
-  "latestVersion": "4.3.5",
-  "latestVersionCode": 435,
-  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.3.5/PremCloner_4.3.5_universal-release-signed.apk",
+  "latestVersion": "4.3.6",
+  "latestVersionCode": 436,
+  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.3.6/PremCloner_4.3.6_universal-release-signed.apk",
   "forceUpdate": false,
-  "releaseNotes": "Developer's clone-opening fix. All features intact, nothing removed."
+  "releaseNotes": "Developer's second clone-opening fix. All features intact, nothing removed."
 }
