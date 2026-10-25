@@ -1,7 +1,7 @@
 {
-  "latestVersion": "4.3.8",
-  "latestVersionCode": 438,
-  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.3.8/PremCloner_4.3.8_universal-release-signed.apk",
+  "latestVersion": "4.3.9",
+  "latestVersionCode": 439,
+  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.3.9/PremCloner_4.3.9_universal-release-signed.apk",
   "forceUpdate": false,
-  "releaseNotes": "Developer's fix for all reported problems in v4.3.7: clone opening, launch failure reporting (start_fail instead of silent black screen), 10-second timeout message, AppLock PIN/biometric verification, restored manual updater check, and Virtual Profile (long-press)."
+  "releaseNotes": "Developer's fix for the v4.3.8 blank clone screen: fixed activity-client hook self-wrapping that caused a StackOverflowError, moved hidden API unlock to a pure-native thread for Android 13+ with targetSdk 36, safely handled Google Play Services bind crashes, and kept all v4.3.8 fixes."
 }
