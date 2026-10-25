@@ -1,7 +1,7 @@
 {
-  "latestVersion": "4.3.10",
-  "latestVersionCode": 440,
-  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.3.10/PremCloner_4.3.10_universal-release-signed.apk",
+  "latestVersion": "4.3.11",
+  "latestVersionCode": 441,
+  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.3.11/PremCloner_4.3.11_universal-release-signed.apk",
   "forceUpdate": false,
-  "releaseNotes": "Virtual Profile fixes: network provider selection, model rule, ICC fix, hang improvements."
+  "releaseNotes": "SIM operator fix and multiple clones of one app."
 }
