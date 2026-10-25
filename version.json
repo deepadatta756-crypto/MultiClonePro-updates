@@ -1,7 +1,7 @@
 {
-  "latestVersion": "4.3.9",
-  "latestVersionCode": 439,
-  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.3.9/PremCloner_4.3.9_universal-release-signed.apk",
+  "latestVersion": "4.3.10",
+  "latestVersionCode": 440,
+  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.3.10/PremCloner_4.3.10_universal-release-signed.apk",
   "forceUpdate": false,
-  "releaseNotes": "Developer's fix for the v4.3.8 blank clone screen: fixed activity-client hook self-wrapping that caused a StackOverflowError, moved hidden API unlock to a pure-native thread for Android 13+ with targetSdk 36, safely handled Google Play Services bind crashes, and kept all v4.3.8 fixes."
+  "releaseNotes": "Virtual Profile fixes: network provider selection, model rule, ICC fix, hang improvements."
 }
