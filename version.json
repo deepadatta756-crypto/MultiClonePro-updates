@@ -1,7 +1,7 @@
 {
-  "latestVersion": "4.3.12",
-  "latestVersionCode": 442,
-  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.3.12/PremCloner_4.3.12_universal-release-signed.apk",
+  "latestVersion": "4.3.13",
+  "latestVersionCode": 443,
+  "apkUrl": "https://github.com/deepadatta756-crypto/MultiClonePro-updates/releases/download/v4.3.13/PremCloner_4.3.13_universal-release-signed.apk",
   "forceUpdate": false,
-  "releaseNotes": "MultiClone Pro v4.3.12 — addresses: big apps (e.g. Facebook) not opening / ANR, clone detection, in-app multitasking inside clones, slow clone launch, and missing virtual Google Play Services in clones. Existing features (Virtual Profile and the rest) unchanged."
+  "releaseNotes": "MultiClone Pro v4.3.13 — addresses: virtual device selection not reaching the paired device (selected virtual device must replace the real device), Pair Device option, stable online connection (no repeated offline/online flapping), timezone matching the selected country, virtual location auto-create, and full Virtual Profile data flowing to the paired device. Existing features unchanged."
 }
